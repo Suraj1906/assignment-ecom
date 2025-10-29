@@ -99,6 +99,17 @@ npm run dev
 ```
 Now open your browser and visit 👉 http://localhost:5173
 
+
+## 🎥 Project Explanation Video  
+
+<h3>▶️ Watch the full demo and project walkthrough here:</h3>  
+
+   CLICK HERE TO WATCH  👉 [![Watch on YouTube](https://img.shields.io/badge/🎬%20Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/l3MV6D4D-bE)
+
+<p>Click the button above to watch the detailed explanation of the Grocery Delivery Website, including its features, UI flow, and Stripe payment integration.</p>
+
+
+
 ## 🌍 Live Demo  
 
 🔗 **Frontend:** 👉 [Click Here To See](https://greencart-deploy-ixed.vercel.app/)
